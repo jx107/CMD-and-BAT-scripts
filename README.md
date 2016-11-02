@@ -3,7 +3,7 @@
 Можно сделать по клику или с помощью средств windows сделать отправку файла по расписанию.
 
 # Как использовать
-1. В файле settings.txt заменяем настройки на нужные.
+В файле settings.txt заменяем настройки на нужные.
 Документация:
 - https://technet.microsoft.com/en-us/library/bb490910.aspx
 - https://technet.microsoft.com/en-us/library/bb490668.aspx
