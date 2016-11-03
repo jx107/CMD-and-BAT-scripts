@@ -7,7 +7,7 @@
 Документация:
 - https://technet.microsoft.com/en-us/library/bb490910.aspx
 - https://technet.microsoft.com/en-us/library/bb490668.aspx
-'''.cmd
+'''cmd
 open 192.168.1.1                      :: подставить адрес своего сервера. ftp.my_server_name.ru/192.168.1.1
 user LOGIN PASSWORD                   :: подставить логин и пароль через пробел.
 cd /home/server_catalog/catalog_name  :: здесь мы указываем нужную папку на сервере
