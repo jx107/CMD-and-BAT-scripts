@@ -14,6 +14,7 @@
   cd /home/server_catalog/catalog_name  :: здесь мы указываем нужную папку на сервере
   put text.txt                          :: имя файла, несколько файлов с расширением txt "mput *.txt"
 ```
+>в файле settings.txt комментарии не работают.
 
 # I'll collect usefull bat & cmd scripts here
 
